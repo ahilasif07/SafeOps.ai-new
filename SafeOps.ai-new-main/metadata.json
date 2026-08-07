@@ -1,0 +1,6 @@
+{
+  "name": "SafeOps AI",
+  "description": "Industrial safety backend with SOP retrieval, worker verification, risk engine, and task safety evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
